@@ -1,0 +1,435 @@
+Registro,Region_residencia,Edad,género,Sector,Estado_Asistencia,Es_Organizador,"Áreas de experiencia ECLP: Durante el evento realizaremos un ""Café Temático"" para debatir insumos sobre el borrador de la ECLP. Por favor, ordene las siguientes temáticas de mayor a menor según su área de experiencia (siendo 1 su área de mayor experiencia): [1. Mitigación y Neutralidad de Emisiones de Gases de Efecto Invernadero (GEI)]","Áreas de experiencia ECLP: Durante el evento realizaremos un ""Café Temático"" para debatir insumos sobre el borrador de la ECLP. Por favor, ordene las siguientes temáticas de mayor a menor según su área de experiencia (siendo 1 su área de mayor experiencia): [2. Absorciones y Sumideros de Carbono]","Áreas de experiencia ECLP: Durante el evento realizaremos un ""Café Temático"" para debatir insumos sobre el borrador de la ECLP. Por favor, ordene las siguientes temáticas de mayor a menor según su área de experiencia (siendo 1 su área de mayor experiencia): [3. Vulnerabilidad, Impactos y Riesgos Climáticos]","Áreas de experiencia ECLP: Durante el evento realizaremos un ""Café Temático"" para debatir insumos sobre el borrador de la ECLP. Por favor, ordene las siguientes temáticas de mayor a menor según su área de experiencia (siendo 1 su área de mayor experiencia): [4. Adaptación y Resiliencia Climática]","Áreas de experiencia ECLP: Durante el evento realizaremos un ""Café Temático"" para debatir insumos sobre el borrador de la ECLP. Por favor, ordene las siguientes temáticas de mayor a menor según su área de experiencia (siendo 1 su área de mayor experiencia): [5. Soluciones basadas en la Naturaleza (SbN) y Funciones Ecosistémicas]","Áreas de experiencia ECLP: Durante el evento realizaremos un ""Café Temático"" para debatir insumos sobre el borrador de la ECLP. Por favor, ordene las siguientes temáticas de mayor a menor según su área de experiencia (siendo 1 su área de mayor experiencia): [6. Sistemas de Monitoreo, Reporte y Verificación (MRV)]","Áreas de experiencia ECLP: Durante el evento realizaremos un ""Café Temático"" para debatir insumos sobre el borrador de la ECLP. Por favor, ordene las siguientes temáticas de mayor a menor según su área de experiencia (siendo 1 su área de mayor experiencia): [7. Desarrollo y Transferencia de Tecnología Climática y generación de capacidades]","Áreas de experiencia ECLP: Durante el evento realizaremos un ""Café Temático"" para debatir insumos sobre el borrador de la ECLP. Por favor, ordene las siguientes temáticas de mayor a menor según su área de experiencia (siendo 1 su área de mayor experiencia): [8. Instrumentos de Precio y Mercado de Carbono]","Áreas de experiencia ECLP: Durante el evento realizaremos un ""Café Temático"" para debatir insumos sobre el borrador de la ECLP. Por favor, ordene las siguientes temáticas de mayor a menor según su área de experiencia (siendo 1 su área de mayor experiencia): [9. Institucionalidad y Gobernanza Climática]"
+REG-001-ABME,Metropolitana de Santiago,,,,No Asistió,False,,,Segunda preferencia para participar,Temática de interés secundario,Primera preferencia para participar,,,,
+REG-002-ADME,Metropolitana de Santiago,43.0,Femenino,Privado,Asistió,False,,,,Primera preferencia para participar,Segunda preferencia para participar,,,,
+REG-003-ADME,Metropolitana de Santiago,60.0,Femenino,Público,Asistió,False,,Temática de interés secundario,,Primera preferencia para participar,,,Segunda preferencia para participar,,
+REG-004-ALME,Metropolitana de Santiago,,Masculino,Academia,Asistió,False,,Segunda preferencia para participar,,Temática de interés secundario,Primera preferencia para participar,,,,
+REG-005-ALVA,Valparaíso,,,,No Asistió,False,,,Primera preferencia para participar,Segunda preferencia para participar,,,,,Temática de interés secundario
+REG-006-ALME,Metropolitana de Santiago,,,,No Asistió,False,,,Segunda preferencia para participar,Temática de interés secundario,Primera preferencia para participar,,,,
+REG-007-ALME,Metropolitana de Santiago,,Femenino,Público,Asistió,False,,,Primera preferencia para participar,Segunda preferencia para participar,Temática de interés secundario,,,,
+REG-008-ALBI,Biobío,47.0,Masculino,Academia,Asistió,False,,,Temática de interés secundario,Segunda preferencia para participar,,,,,Primera preferencia para participar
+REG-009-ALO',O'Higgins,41.0,Masculino,Academia,Asistió,False,,Temática de interés secundario,,Segunda preferencia para participar,Primera preferencia para participar,,,,
+REG-010-ALVA,Valparaíso,53.0,Masculino,Público,Asistió,False,,,Primera preferencia para participar,,,,,,
+REG-011-ALME,Metropolitana de Santiago,,Masculino,Academia,Asistió,True,Temática de interés secundario,,Primera preferencia para participar,Segunda preferencia para participar,,,,,
+REG-012-ALME,Metropolitana de Santiago,27.0,Masculino,Academia,Asistió,False,,Segunda preferencia para participar,,Temática de interés secundario,Primera preferencia para participar,,,,
+REG-013-ALVA,Valparaíso,37.0,Masculino,Público,Asistió,False,,,Segunda preferencia para participar,Primera preferencia para participar,,Temática de interés secundario,,,
+REG-014-ALME,Metropolitana de Santiago,35.0,Masculino,Sociedad civil,Asistió,False,Primera preferencia para participar,Temática de interés secundario,Segunda preferencia para participar,,,,,,
+REG-015-AMBI,Biobío,,Femenino,Academia,Asistió,True,,,Segunda preferencia para participar,,Primera preferencia para participar,,,,Temática de interés secundario
+REG-016-AMME,Metropolitana de Santiago,,,,No Asistió,False,,Segunda preferencia para participar,,,Primera preferencia para participar,,,,
+REG-017-ANME,Metropolitana de Santiago,,,,No Asistió,False,,,Primera preferencia para participar,Segunda preferencia para participar,,,,,Temática de interés secundario
+REG-018-ANVA,Valparaíso,55.0,Femenino,Academia,Asistió,False,,,Segunda preferencia para participar,Temática de interés secundario,,,Primera preferencia para participar,,
+REG-019-ANME,Metropolitana de Santiago,,,,No Asistió,False,,,Primera preferencia para participar,Segunda preferencia para participar,,,,,Temática de interés secundario
+REG-020-ANME,Metropolitana de Santiago,43.0,Femenino,Academia,Asistió,False,,,,Temática de interés secundario,Segunda preferencia para participar,,Primera preferencia para participar,,
+REG-021-ANÑU,Ñuble,56.0,Femenino,Academia,Asistió,False,Primera preferencia para participar,,,,,,,,
+REG-022-ANME,Metropolitana de Santiago,40.0,Masculino,Academia,Asistió,False,,,Primera preferencia para participar,Segunda preferencia para participar,,,,,
+REG-023-ANME,Metropolitana de Santiago,37.0,Femenino,Academia,Asistió,False,,,Temática de interés secundario,Segunda preferencia para participar,,,Primera preferencia para participar,,
+REG-024-ANME,Metropolitana de Santiago,,,,No Asistió,False,Segunda preferencia para participar,,,,,,Primera preferencia para participar,,
+REG-025-ANME,Metropolitana de Santiago,47.0,Masculino,Privado,Asistió,False,,,,Temática de interés secundario,,Primera preferencia para participar,Segunda preferencia para participar,,
+REG-026-AN,No especificada,,,,No Asistió,False,,,,,,,,,
+REG-027-ANME,Metropolitana de Santiago,,,,No Asistió,False,,,,,,,,Primera preferencia para participar,
+REG-028-ANLA,La Araucanía,,,,No Asistió,False,,,Segunda preferencia para participar,Primera preferencia para participar,,,,,
+REG-029-ANBI,Biobío,52.0,Masculino,Academia,Asistió,False,,,Primera preferencia para participar,Temática de interés secundario,Segunda preferencia para participar,,,,
+REG-030-ANME,Metropolitana de Santiago,,,,No Asistió,False,,,,Temática de interés secundario,,,Segunda preferencia para participar,,Primera preferencia para participar
+REG-031-ANME,Metropolitana de Santiago,24.0,Femenino,Privado,Asistió,False,,,,,,,Primera preferencia para participar,Segunda preferencia para participar,Temática de interés secundario
+REG-032-ANME,Metropolitana de Santiago,,,,No Asistió,False,,Temática de interés secundario,,Segunda preferencia para participar,Primera preferencia para participar,,,,
+REG-033-ARBI,Biobío,,,,No Asistió,False,,,,,Segunda preferencia para participar,Temática de interés secundario,,,Primera preferencia para participar
+REG-034-ARVA,Valparaíso,36.0,Masculino,Academia,Asistió,False,Segunda preferencia para participar,,,Temática de interés secundario,,,,,Primera preferencia para participar
+REG-035-AR,No especificada,,,,No Asistió,False,,,,,,,,,
+REG-036-ASBI,Biobío,,Femenino,Público,Asistió,False,,Temática de interés secundario,Segunda preferencia para participar,,,,,,Primera preferencia para participar
+REG-037-AUME,Metropolitana de Santiago,,,,No Asistió,False,Temática de interés secundario,Segunda preferencia para participar,,,Primera preferencia para participar,,,,
+REG-038-AXME,Metropolitana de Santiago,,,,No Asistió,False,Temática de interés secundario,,Segunda preferencia para participar,Primera preferencia para participar,,,,,
+REG-039-BÁME,Metropolitana de Santiago,,,,No Asistió,False,Segunda preferencia para participar,,,,,,Temática de interés secundario,Primera preferencia para participar,
+REG-040-BÁME,Metropolitana de Santiago,,,,No Asistió,False,,,,Primera preferencia para participar,Temática de interés secundario,,,,Segunda preferencia para participar
+REG-041-BÁME,Metropolitana de Santiago,,,,No Asistió,False,,,,,,,Primera preferencia para participar,Segunda preferencia para participar,Temática de interés secundario
+REG-042-BAME,Metropolitana de Santiago,30.0,Masculino,Academia,Asistió,False,,,Segunda preferencia para participar,Primera preferencia para participar,,Temática de interés secundario,,,
+REG-043-BAME,Metropolitana de Santiago,36.0,Masculino,Público,Asistió,False,,,,,,,,,
+REG-044-BE,No especificada,26.0,Masculino,Academia,Asistió,False,,,,,,,,,
+REG-045-BEME,Metropolitana de Santiago,,,,No Asistió,True,,,,,,,,,
+REG-046-BOME,Metropolitana de Santiago,42.0,Masculino,Otro,Asistió,True,,,,,,,,,
+REG-047-BRME,Metropolitana de Santiago,42.0,Masculino,Público,Asistió,False,Primera preferencia para participar,Segunda preferencia para participar,,,,,,,Temática de interés secundario
+REG-048-CAME,Metropolitana de Santiago,,,,No Asistió,False,,,Temática de interés secundario,,Primera preferencia para participar,,Segunda preferencia para participar,,
+REG-049-CABI,Biobío,,Femenino,Academia,Asistió,True,,,Primera preferencia para participar,Segunda preferencia para participar,,Temática de interés secundario,,,
+REG-050-CAME,Metropolitana de Santiago,33.0,Femenino,Academia,Asistió,False,,,Primera preferencia para participar,,Temática de interés secundario,,,,Segunda preferencia para participar
+REG-051-CAME,Metropolitana de Santiago,,,,No Asistió,False,Segunda preferencia para participar,,,,,Primera preferencia para participar,,Temática de interés secundario,
+REG-052-CALO,Los Lagos,,Femenino,Academia,Asistió,True,Primera preferencia para participar,,,Segunda preferencia para participar,,,,,
+REG-053-CAME,Metropolitana de Santiago,40.0,Femenino,Academia,Asistió,False,,,Primera preferencia para participar,Temática de interés secundario,,,,,Segunda preferencia para participar
+REG-054-CAME,Metropolitana de Santiago,38.0,Femenino,Academia,Asistió,False,,,Segunda preferencia para participar,Primera preferencia para participar,,,Temática de interés secundario,,
+REG-055-CAME,Metropolitana de Santiago,,,,No Asistió,False,Primera preferencia para participar,,,Segunda preferencia para participar,,,,,
+REG-056-CAMA,Magallanes,56.0,Femenino,Academia,Asistió,False,,,Temática de interés secundario,Primera preferencia para participar,Segunda preferencia para participar,,,,
+REG-057-CAME,Metropolitana de Santiago,,,,No Asistió,False,,,,,Primera preferencia para participar,,,Segunda preferencia para participar,Temática de interés secundario
+REG-058-CAME,Metropolitana de Santiago,,,,No Asistió,False,Primera preferencia para participar,,,Segunda preferencia para participar,,,,Temática de interés secundario,
+REG-059-CAME,Metropolitana de Santiago,73.0,Masculino,Otro,Asistió,False,,,Primera preferencia para participar,,,Segunda preferencia para participar,,,
+REG-060-CAME,Metropolitana de Santiago,,,,No Asistió,False,,,,,,,,,
+REG-061-CAAN,Antofagasta,,,,No Asistió,False,,,,,Primera preferencia para participar,Temática de interés secundario,,,Segunda preferencia para participar
+REG-062-CAME,Metropolitana de Santiago,,Masculino,Público,Asistió,True,,,,Segunda preferencia para participar,,,Temática de interés secundario,,Primera preferencia para participar
+REG-063-CACO,Coquimbo,53.0,Masculino,Academia,Asistió,False,,,Segunda preferencia para participar,,Primera preferencia para participar,,,,Temática de interés secundario
+REG-064-CAME,Metropolitana de Santiago,,,,No Asistió,False,,,,,Segunda preferencia para participar,,,Primera preferencia para participar,Temática de interés secundario
+REG-065-CAME,Metropolitana de Santiago,,,,No Asistió,False,,,,Segunda preferencia para participar,Temática de interés secundario,,,,Primera preferencia para participar
+REG-066-CAME,Metropolitana de Santiago,39.0,Masculino,Privado,Asistió,False,,,Primera preferencia para participar,Segunda preferencia para participar,Temática de interés secundario,,,,
+REG-067-CAME,Metropolitana de Santiago,,,,No Asistió,True,,,,,,,,,
+REG-068-CAME,Metropolitana de Santiago,47.0,Femenino,Público,Asistió,False,,,Segunda preferencia para participar,,Temática de interés secundario,,Primera preferencia para participar,,
+REG-069-CAME,Metropolitana de Santiago,,Femenino,Público,Asistió,False,,,,Primera preferencia para participar,Temática de interés secundario,,,,Segunda preferencia para participar
+REG-070-CALO,Los Ríos,40.0,Femenino,Academia,Asistió,False,,,,,Primera preferencia para participar,,Segunda preferencia para participar,,Temática de interés secundario
+REG-071-CAME,Metropolitana de Santiago,56.0,Femenino,Academia,Asistió,False,,,,,,,,,
+REG-072-CAME,Metropolitana de Santiago,,,,No Asistió,False,,,Primera preferencia para participar,,,,,,
+REG-073-CAME,Metropolitana de Santiago,38.0,Femenino,Otro,Asistió,False,,,,,,Temática de interés secundario,,Primera preferencia para participar,Segunda preferencia para participar
+REG-074-CAME,Metropolitana de Santiago,27.0,Femenino,Privado,Asistió,False,,,Segunda preferencia para participar,,,,Primera preferencia para participar,,Temática de interés secundario
+REG-075-CAME,Metropolitana de Santiago,,,,No Asistió,False,Temática de interés secundario,,Primera preferencia para participar,Segunda preferencia para participar,,,,,
+REG-076-CAME,Metropolitana de Santiago,,,,No Asistió,False,,,Temática de interés secundario,Primera preferencia para participar,,,,,Segunda preferencia para participar
+REG-077-CAME,Metropolitana de Santiago,,,,No Asistió,False,Segunda preferencia para participar,,,Primera preferencia para participar,,,Temática de interés secundario,,
+REG-078-CEAN,Antofagasta,60.0,Femenino,Otro,Asistió,False,Segunda preferencia para participar,,,Primera preferencia para participar,,,Temática de interés secundario,,
+REG-079-CELA,La Araucanía,,,,No Asistió,False,Temática de interés secundario,,,Primera preferencia para participar,Segunda preferencia para participar,,,,
+REG-080-CHLA,La Araucanía,,,,No Asistió,False,,,,Primera preferencia para participar,,,,,
+REG-081-CHME,Metropolitana de Santiago,,,,No Asistió,False,Primera preferencia para participar,Segunda preferencia para participar,,Temática de interés secundario,,,,,
+REG-082-CHME,Metropolitana de Santiago,,,,No Asistió,False,,,Segunda preferencia para participar,,Primera preferencia para participar,,,,Temática de interés secundario
+REG-083-CLME,Metropolitana de Santiago,,Femenino,Academia,Asistió,False,,,,Segunda preferencia para participar,Primera preferencia para participar,,Temática de interés secundario,,
+REG-084-CLME,Metropolitana de Santiago,52.0,Femenino,Privado,Asistió,False,Temática de interés secundario,Segunda preferencia para participar,,,,,,Primera preferencia para participar,
+REG-085-CLME,Metropolitana de Santiago,33.0,Femenino,Academia,Asistió,False,,Segunda preferencia para participar,,Temática de interés secundario,Primera preferencia para participar,,,,
+REG-086-CLVA,Valparaíso,33.0,Femenino,Academia,Asistió,False,,,Primera preferencia para participar,Segunda preferencia para participar,,,,,Temática de interés secundario
+REG-087-CLME,Metropolitana de Santiago,53.0,Femenino,Público,Asistió,False,,,Primera preferencia para participar,Segunda preferencia para participar,Temática de interés secundario,,,,
+REG-088-CLME,Metropolitana de Santiago,55.0,Femenino,Academia,Asistió,False,Temática de interés secundario,,Segunda preferencia para participar,Primera preferencia para participar,,,,,
+REG-089-CLME,Metropolitana de Santiago,,,,No Asistió,False,,,Temática de interés secundario,,Primera preferencia para participar,,,,Segunda preferencia para participar
+REG-090-CLVA,Valparaíso,,,,No Asistió,False,,,Temática de interés secundario,Primera preferencia para participar,Segunda preferencia para participar,,,,
+REG-091-COME,Metropolitana de Santiago,28.0,Femenino,Academia,Asistió,False,,,,,,,,,
+REG-092-COME,Metropolitana de Santiago,,Femenino,Academia,Asistió,False,Temática de interés secundario,,,,Segunda preferencia para participar,Primera preferencia para participar,,,
+REG-093-COME,Metropolitana de Santiago,,,,No Asistió,False,,,,Temática de interés secundario,Primera preferencia para participar,,,Segunda preferencia para participar,
+REG-094-CRBI,Biobío,,,,No Asistió,False,Segunda preferencia para participar,,Temática de interés secundario,,,,,Primera preferencia para participar,
+REG-095-CRME,Metropolitana de Santiago,,,,No Asistió,False,,,,Segunda preferencia para participar,,Primera preferencia para participar,,,
+REG-096-CRBI,Biobío,53.0,Masculino,Academia,Asistió,False,,,,Segunda preferencia para participar,Primera preferencia para participar,,,,Temática de interés secundario
+REG-097-CRME,Metropolitana de Santiago,53.0,Masculino,Academia,Asistió,False,,,Primera preferencia para participar,Segunda preferencia para participar,,,,,Temática de interés secundario
+REG-098-CRME,Metropolitana de Santiago,40.0,Masculino,Público,Asistió,False,Segunda preferencia para participar,Temática de interés secundario,,,,Primera preferencia para participar,,,
+REG-099-CRME,Metropolitana de Santiago,41.0,Masculino,Academia,Asistió,False,Segunda preferencia para participar,,Primera preferencia para participar,,,,Temática de interés secundario,,
+REG-100-CRAN,Antofagasta,,,,No Asistió,False,,,,,,,Primera preferencia para participar,,Segunda preferencia para participar
+REG-101-CRME,Metropolitana de Santiago,72.0,Masculino,Academia,Asistió,False,,,,Segunda preferencia para participar,,Temática de interés secundario,,,Primera preferencia para participar
+REG-102-CRME,Metropolitana de Santiago,,,,No Asistió,False,,,Primera preferencia para participar,Segunda preferencia para participar,,,,,Temática de interés secundario
+REG-103-CRME,Metropolitana de Santiago,51.0,Masculino,Público,Asistió,False,Segunda preferencia para participar,,Primera preferencia para participar,,,Temática de interés secundario,,,
+REG-104-CRVA,Valparaíso,46.0,Femenino,Academia,Asistió,False,,,Temática de interés secundario,Segunda preferencia para participar,Primera preferencia para participar,,,,
+REG-105-CRME,Metropolitana de Santiago,45.0,Masculino,Privado,Asistió,False,Primera preferencia para participar,,,Segunda preferencia para participar,,,,,Temática de interés secundario
+REG-106-CRME,Metropolitana de Santiago,,,,No Asistió,False,Segunda preferencia para participar,,,,,,Primera preferencia para participar,Temática de interés secundario,
+REG-107-CRME,Metropolitana de Santiago,,,,No Asistió,False,Segunda preferencia para participar,,Temática de interés secundario,,,Primera preferencia para participar,,,
+REG-108-CRME,Metropolitana de Santiago,45.0,Masculino,Sociedad civil,Asistió,False,,,Primera preferencia para participar,Temática de interés secundario,,,,,Segunda preferencia para participar
+REG-109-CYAN,Antofagasta,,,,No Asistió,False,,,,,,Primera preferencia para participar,,,
+REG-110-DAVA,Valparaíso,,,,No Asistió,False,,,Segunda preferencia para participar,,,Primera preferencia para participar,,,
+REG-111-DALA,La Araucanía,45.0,Masculino,Academia,Asistió,False,,,Primera preferencia para participar,Segunda preferencia para participar,Temática de interés secundario,,,,
+REG-112-DAVA,Valparaíso,,,,No Asistió,False,,,Segunda preferencia para participar,Primera preferencia para participar,,Temática de interés secundario,,,
+REG-113-DA,No especificada,,,,No Asistió,False,,,,,,,,,
+REG-114-DAME,Metropolitana de Santiago,,Masculino,Público,Asistió,False,,,Primera preferencia para participar,Segunda preferencia para participar,,,,Temática de interés secundario,
+REG-115-DALO,Los Ríos,70.0,Masculino,Academia,Asistió,False,,,Segunda preferencia para participar,Primera preferencia para participar,Temática de interés secundario,,,,
+REG-116-DAVA,Valparaíso,,,,No Asistió,False,,,Primera preferencia para participar,,Segunda preferencia para participar,Temática de interés secundario,,,
+REG-117-DA,No especificada,28.0,Masculino,Academia,Asistió,False,,,,,,,,,
+REG-118-DAME,Metropolitana de Santiago,,Masculino,Otro,Asistió,True,Temática de interés secundario,,,,,,Segunda preferencia para participar,,Primera preferencia para participar
+REG-119-DAME,Metropolitana de Santiago,,,,No Asistió,False,,,Primera preferencia para participar,,Temática de interés secundario,,,Segunda preferencia para participar,
+REG-120-DAME,Metropolitana de Santiago,38.0,Femenino,Academia,Asistió,False,,,,Segunda preferencia para participar,,Temática de interés secundario,,,Primera preferencia para participar
+REG-121-DAME,Metropolitana de Santiago,35.0,Femenino,Academia,Asistió,False,Segunda preferencia para participar,,,,,,Primera preferencia para participar,Temática de interés secundario,
+REG-122-DAME,Metropolitana de Santiago,30.0,Femenino,Privado,Asistió,False,,,,Temática de interés secundario,,,Primera preferencia para participar,,Segunda preferencia para participar
+REG-123-DAME,Metropolitana de Santiago,51.0,Masculino,Academia,Asistió,False,,Temática de interés secundario,,Segunda preferencia para participar,,,,,Primera preferencia para participar
+REG-124-DAME,Metropolitana de Santiago,33.0,Masculino,Público,Asistió,False,,,,Primera preferencia para participar,,,Segunda preferencia para participar,,Temática de interés secundario
+REG-125-DEBI,Biobío,,,,No Asistió,False,,Temática de interés secundario,Segunda preferencia para participar,Primera preferencia para participar,,,,,
+REG-126-DIVA,Valparaíso,,,,No Asistió,False,,,Segunda preferencia para participar,Primera preferencia para participar,Temática de interés secundario,,,,
+REG-127-DIME,Metropolitana de Santiago,30.0,Masculino,Academia,Asistió,False,,,,Temática de interés secundario,,Segunda preferencia para participar,,,Primera preferencia para participar
+REG-128-DIME,Metropolitana de Santiago,,Masculino,Público,Asistió,False,,,,,,Primera preferencia para participar,Temática de interés secundario,,Segunda preferencia para participar
+REG-129-DIME,Metropolitana de Santiago,36.0,Masculino,Privado,Asistió,False,Primera preferencia para participar,Segunda preferencia para participar,,,,,Temática de interés secundario,,
+REG-130-DIME,Metropolitana de Santiago,48.0,Masculino,Academia,Asistió,False,,,Primera preferencia para participar,Segunda preferencia para participar,,Temática de interés secundario,,,
+REG-131-DIO',O'Higgins,,,,No Asistió,False,,Temática de interés secundario,Segunda preferencia para participar,Primera preferencia para participar,,,,,
+REG-132-DIME,Metropolitana de Santiago,,Femenino,Público,Asistió,False,,,,,,,,,
+REG-133-DOME,Metropolitana de Santiago,,,,No Asistió,False,,Segunda preferencia para participar,,Temática de interés secundario,Primera preferencia para participar,,,,
+REG-134-DOVA,Valparaíso,70.0,Femenino,Academia,Asistió,False,,,,Segunda preferencia para participar,Temática de interés secundario,,,,Primera preferencia para participar
+REG-135-DOME,Metropolitana de Santiago,,Femenino,Otro,Asistió,True,,Segunda preferencia para participar,,,Temática de interés secundario,,,Primera preferencia para participar,
+REG-136-DYME,Metropolitana de Santiago,30.0,Masculino,Público,Asistió,True,,,,,,,,,
+REG-137-EDMA,Magallanes,55.0,Masculino,Sociedad civil,Asistió,False,Segunda preferencia para participar,,,,,Primera preferencia para participar,,,Temática de interés secundario
+REG-138-EDME,Metropolitana de Santiago,42.0,Masculino,Academia,Asistió,False,,,Primera preferencia para participar,Segunda preferencia para participar,,,,,Temática de interés secundario
+REG-139-EDME,Metropolitana de Santiago,,,,No Asistió,False,,,,,,,Primera preferencia para participar,Segunda preferencia para participar,Temática de interés secundario
+REG-140-EDME,Metropolitana de Santiago,44.0,Masculino,Privado,Asistió,False,,,,,,,,,
+REG-141-EDLO,Los Ríos,70.0,Masculino,Academia,Asistió,False,,,Primera preferencia para participar,,,Temática de interés secundario,Segunda preferencia para participar,,
+REG-142-EDME,Metropolitana de Santiago,,,,No Asistió,False,,,Temática de interés secundario,Segunda preferencia para participar,Primera preferencia para participar,,,,
+REG-143-ED,No especificada,,,,No Asistió,False,,,,,,,,,
+REG-144-ELVA,Valparaíso,,,,No Asistió,False,,,Primera preferencia para participar,,,Segunda preferencia para participar,,,
+REG-145-ELME,Metropolitana de Santiago,,,,No Asistió,False,,,Primera preferencia para participar,,Segunda preferencia para participar,,,,Temática de interés secundario
+REG-146-ELVA,Valparaíso,41.0,Femenino,Academia,Asistió,False,,,,Segunda preferencia para participar,,,,Temática de interés secundario,Primera preferencia para participar
+REG-147-ELAN,Antofagasta,,Femenino,Academia,Asistió,True,,,Temática de interés secundario,Segunda preferencia para participar,Primera preferencia para participar,,,,
+REG-148-ELME,Metropolitana de Santiago,51.0,Femenino,Privado,Asistió,False,,,Segunda preferencia para participar,,Primera preferencia para participar,,,,Temática de interés secundario
+REG-149-ELME,Metropolitana de Santiago,,,,No Asistió,False,,,Segunda preferencia para participar,Primera preferencia para participar,Temática de interés secundario,,,,
+REG-150-ENBI,Biobío,,,,No Asistió,False,,,Primera preferencia para participar,,,,,,
+REG-151-ENME,Metropolitana de Santiago,48.0,Masculino,Público,Asistió,False,,,Segunda preferencia para participar,Primera preferencia para participar,Temática de interés secundario,,,,
+REG-152-ENCO,Coquimbo,,,,No Asistió,False,,,Temática de interés secundario,,Primera preferencia para participar,Segunda preferencia para participar,,,
+REG-153-ERME,Metropolitana de Santiago,44.0,Masculino,Privado,Asistió,False,,Primera preferencia para participar,,,Segunda preferencia para participar,Temática de interés secundario,,,
+REG-154-EUME,Metropolitana de Santiago,,,,No Asistió,False,,,Primera preferencia para participar,Segunda preferencia para participar,,,,Temática de interés secundario,
+REG-155-FAME,Metropolitana de Santiago,53.0,Femenino,Público,Asistió,False,,,Primera preferencia para participar,Segunda preferencia para participar,,,,,Temática de interés secundario
+REG-156-FAME,Metropolitana de Santiago,45.0,Femenino,Público,Asistió,False,,,,Primera preferencia para participar,Temática de interés secundario,,Segunda preferencia para participar,,
+REG-157-FEMA,Maule,,,,No Asistió,False,,,,,Primera preferencia para participar,,Segunda preferencia para participar,,Temática de interés secundario
+REG-158-FEME,Metropolitana de Santiago,,,,No Asistió,False,,,,,,,,,
+REG-159-FEME,Metropolitana de Santiago,36.0,Masculino,Público,Asistió,False,,,Primera preferencia para participar,,Segunda preferencia para participar,,,,
+REG-160-FEME,Metropolitana de Santiago,,Masculino,Público,Asistió,False,,Segunda preferencia para participar,,,,,,,Primera preferencia para participar
+REG-161-FEME,Metropolitana de Santiago,44.0,Masculino,Academia,Asistió,False,,,Segunda preferencia para participar,Primera preferencia para participar,,,,,
+REG-162-FEME,Metropolitana de Santiago,,,,No Asistió,False,,,Primera preferencia para participar,Segunda preferencia para participar,Temática de interés secundario,,,,
+REG-163-FEME,Metropolitana de Santiago,35.0,Masculino,Academia,Asistió,False,,,Primera preferencia para participar,Segunda preferencia para participar,,Temática de interés secundario,,,
+REG-164-FEME,Metropolitana de Santiago,31.0,Masculino,Público,Asistió,False,,,,,,,,,
+REG-165-FEME,Metropolitana de Santiago,,,,No Asistió,False,,,,,,,Segunda preferencia para participar,Temática de interés secundario,Primera preferencia para participar
+REG-166-FEME,Metropolitana de Santiago,36.0,Femenino,Sociedad civil,Asistió,False,,,,Segunda preferencia para participar,Temática de interés secundario,,,,Primera preferencia para participar
+REG-167-FEVA,Valparaíso,41.0,Femenino,Academia,Asistió,False,Segunda preferencia para participar,,,Primera preferencia para participar,,,,,Temática de interés secundario
+REG-168-FEME,Metropolitana de Santiago,37.0,Femenino,Otro,Asistió,False,,,,,Primera preferencia para participar,Segunda preferencia para participar,,,
+REG-169-FEAN,Antofagasta,61.0,Masculino,Academia,Asistió,False,Segunda preferencia para participar,,,,,Temática de interés secundario,,,Primera preferencia para participar
+REG-170-FEME,Metropolitana de Santiago,,,,No Asistió,False,,,,Segunda preferencia para participar,Primera preferencia para participar,,Temática de interés secundario,,
+REG-171-FEME,Metropolitana de Santiago,,,,No Asistió,False,Primera preferencia para participar,,,,,Temática de interés secundario,,,Segunda preferencia para participar
+REG-172-FIME,Metropolitana de Santiago,32.0,Femenino,Público,Asistió,False,Primera preferencia para participar,,,,,Segunda preferencia para participar,Temática de interés secundario,,
+REG-173-FLME,Metropolitana de Santiago,36.0,Femenino,Privado,Asistió,False,,,Temática de interés secundario,Segunda preferencia para participar,,,Primera preferencia para participar,,
+REG-174-FRME,Metropolitana de Santiago,,,,No Asistió,False,Primera preferencia para participar,,Segunda preferencia para participar,,,Temática de interés secundario,,,
+REG-175-FRME,Metropolitana de Santiago,45.0,Femenino,Privado,Asistió,False,Segunda preferencia para participar,,,,,,,Temática de interés secundario,Primera preferencia para participar
+REG-176-FRME,Metropolitana de Santiago,28.0,Femenino,Privado,Asistió,False,Primera preferencia para participar,,,Segunda preferencia para participar,Temática de interés secundario,,,,
+REG-177-FRBI,Biobío,,,,No Asistió,False,,,Temática de interés secundario,,Primera preferencia para participar,,,,Segunda preferencia para participar
+REG-178-FRBI,Biobío,36.0,Masculino,Academia,Asistió,False,Temática de interés secundario,Primera preferencia para participar,,,Segunda preferencia para participar,,,,
+REG-179-FRVA,Valparaíso,,,,No Asistió,False,,,,,Segunda preferencia para participar,Primera preferencia para participar,Temática de interés secundario,,
+REG-180-FRBI,Biobío,44.0,Masculino,Academia,Asistió,False,,,Temática de interés secundario,,Segunda preferencia para participar,Primera preferencia para participar,,,
+REG-181-FRME,Metropolitana de Santiago,,,,No Asistió,False,Segunda preferencia para participar,Primera preferencia para participar,,,,,,,
+REG-182-FRME,Metropolitana de Santiago,,,,No Asistió,False,,,,,,,,,
+REG-183-FRME,Metropolitana de Santiago,45.0,Masculino,Academia,Asistió,False,,,Primera preferencia para participar,Segunda preferencia para participar,,,Temática de interés secundario,,
+REG-184-FRME,Metropolitana de Santiago,,,,No Asistió,False,,,Temática de interés secundario,Segunda preferencia para participar,Primera preferencia para participar,,,,
+REG-185-FRME,Metropolitana de Santiago,43.0,Masculino,Academia,Asistió,True,Primera preferencia para participar,Segunda preferencia para participar,,,,,Temática de interés secundario,,
+REG-186-GAME,Metropolitana de Santiago,,,,No Asistió,False,,,Primera preferencia para participar,Temática de interés secundario,,,,,Segunda preferencia para participar
+REG-187-GAME,Metropolitana de Santiago,,,,No Asistió,False,Primera preferencia para participar,,,,,,,,
+REG-188-GEME,Metropolitana de Santiago,,,,No Asistió,False,Temática de interés secundario,,,,,Segunda preferencia para participar,,Primera preferencia para participar,
+REG-189-GEME,Metropolitana de Santiago,,,,No Asistió,False,,,Primera preferencia para participar,Segunda preferencia para participar,,,Temática de interés secundario,,
+REG-190-GEME,Metropolitana de Santiago,,,,No Asistió,False,Primera preferencia para participar,,Segunda preferencia para participar,,,,,,
+REG-191-GEVA,Valparaíso,53.0,Masculino,Academia,Asistió,False,,,,Temática de interés secundario,Segunda preferencia para participar,,Primera preferencia para participar,,
+REG-192-GIO',O'Higgins,,,,No Asistió,False,,,Segunda preferencia para participar,,,Primera preferencia para participar,,,Temática de interés secundario
+REG-193-GLBI,Biobío,,Femenino,Academia,Asistió,True,,,,Segunda preferencia para participar,Temática de interés secundario,,Primera preferencia para participar,,
+REG-194-GLME,Metropolitana de Santiago,,,,No Asistió,False,,,Temática de interés secundario,Segunda preferencia para participar,,,,,Primera preferencia para participar
+REG-195-GUME,Metropolitana de Santiago,38.0,Masculino,Privado,Asistió,False,Segunda preferencia para participar,,,Temática de interés secundario,,,Primera preferencia para participar,,
+REG-196-HÉVA,Valparaíso,,Masculino,Academia,Asistió,False,,,,Primera preferencia para participar,Segunda preferencia para participar,,Temática de interés secundario,,
+REG-197-HEME,Metropolitana de Santiago,26.0,Masculino,Academia,Asistió,False,,Temática de interés secundario,Primera preferencia para participar,Segunda preferencia para participar,,,,,
+REG-198-HEME,Metropolitana de Santiago,,Masculino,Público,Asistió,False,,,,,,,,,
+REG-199-HOME,Metropolitana de Santiago,,,,No Asistió,False,Primera preferencia para participar,Segunda preferencia para participar,Temática de interés secundario,,,,,,
+REG-200-HUMA,Maule,44.0,Masculino,Academia,Asistió,False,,,Segunda preferencia para participar,Temática de interés secundario,,,Primera preferencia para participar,,
+REG-201-HULO,Los Ríos,71.0,Masculino,Academia,Asistió,False,,Primera preferencia para participar,Segunda preferencia para participar,,Temática de interés secundario,,,,
+REG-202-HUME,Metropolitana de Santiago,,Masculino,Academia,Asistió,False,Segunda preferencia para participar,,,,,,Primera preferencia para participar,,Temática de interés secundario
+REG-203-IGME,Metropolitana de Santiago,,,,No Asistió,False,,,Segunda preferencia para participar,,Primera preferencia para participar,,Temática de interés secundario,,
+REG-204-IGME,Metropolitana de Santiago,36.0,Masculino,Público,Asistió,False,,,,Segunda preferencia para participar,Primera preferencia para participar,Temática de interés secundario,,,
+REG-205-IRME,Metropolitana de Santiago,54.0,Femenino,Público,Asistió,False,,,,,,,,,
+REG-206-ISME,Metropolitana de Santiago,,,,No Asistió,False,Primera preferencia para participar,,Segunda preferencia para participar,,Temática de interés secundario,,,,
+REG-207-ISME,Metropolitana de Santiago,,,,No Asistió,False,,Segunda preferencia para participar,,Temática de interés secundario,,,,Primera preferencia para participar,
+REG-208-IVMA,Maule,,Masculino,Academia,Asistió,False,,Temática de interés secundario,,,,Segunda preferencia para participar,Primera preferencia para participar,,
+REG-209-IZME,Metropolitana de Santiago,,Femenino,Academia,Asistió,False,,,,Primera preferencia para participar,Segunda preferencia para participar,,Temática de interés secundario,,
+REG-210-JAME,Metropolitana de Santiago,,,,No Asistió,False,,,Segunda preferencia para participar,Primera preferencia para participar,,,Temática de interés secundario,,
+REG-211-JAME,Metropolitana de Santiago,44.0,Masculino,Público,Asistió,False,Primera preferencia para participar,,,,,Temática de interés secundario,,Segunda preferencia para participar,
+REG-212-JAVA,Valparaíso,39.0,Masculino,Público,Asistió,False,,,,,Segunda preferencia para participar,,Temática de interés secundario,Primera preferencia para participar,
+REG-213-JAME,Metropolitana de Santiago,,Masculino,Público,Asistió,False,,,Segunda preferencia para participar,Primera preferencia para participar,,,Temática de interés secundario,,
+REG-214-JABI,Biobío,,,,No Asistió,False,,,,Segunda preferencia para participar,Primera preferencia para participar,Temática de interés secundario,,,
+REG-215-JAO',O'Higgins,,,,No Asistió,False,,,Primera preferencia para participar,,,,,,
+REG-216-JAME,Metropolitana de Santiago,28.0,Masculino,Academia,Asistió,False,,,Segunda preferencia para participar,Primera preferencia para participar,,,Temática de interés secundario,,
+REG-217-JAME,Metropolitana de Santiago,,Femenino,Academia,Asistió,False,,,,,Primera preferencia para participar,Segunda preferencia para participar,,Temática de interés secundario,
+REG-218-JAME,Metropolitana de Santiago,,,,No Asistió,False,,,,Segunda preferencia para participar,Temática de interés secundario,Primera preferencia para participar,,,
+REG-219-JABI,Biobío,,,,No Asistió,False,,,,Primera preferencia para participar,,,Segunda preferencia para participar,,Temática de interés secundario
+REG-220-JEME,Metropolitana de Santiago,38.0,Femenino,Público,Asistió,False,Primera preferencia para participar,,,,,Temática de interés secundario,,Segunda preferencia para participar,
+REG-221-JEMA,Maule,,,,No Asistió,True,,,,,,,,,
+REG-222-JEME,Metropolitana de Santiago,62.0,Femenino,Público,Asistió,False,,,,Primera preferencia para participar,Temática de interés secundario,,,,Segunda preferencia para participar
+REG-223-JO,No especificada,30.0,Masculino,Privado,Asistió,False,,,,,,,,,
+REG-224-JOME,Metropolitana de Santiago,43.0,Femenino,Público,Asistió,False,,,,,,Segunda preferencia para participar,Primera preferencia para participar,,Temática de interés secundario
+REG-225-JOME,Metropolitana de Santiago,,,,No Asistió,False,Temática de interés secundario,,,Segunda preferencia para participar,,,,,Primera preferencia para participar
+REG-226-JOO',O'Higgins,42.0,Masculino,Academia,Asistió,False,Segunda preferencia para participar,,Temática de interés secundario,,Primera preferencia para participar,,,,
+REG-227-JOME,Metropolitana de Santiago,,,,No Asistió,False,,,Segunda preferencia para participar,Primera preferencia para participar,Temática de interés secundario,,,,
+REG-228-JO,No especificada,,,,No Asistió,False,,,,,,,,,
+REG-229-JOME,Metropolitana de Santiago,18.0,Masculino,Privado,Asistió,False,,Segunda preferencia para participar,,,Primera preferencia para participar,,,Temática de interés secundario,
+REG-230-JOME,Metropolitana de Santiago,54.0,Masculino,Academia,Asistió,True,,Primera preferencia para participar,,,Segunda preferencia para participar,Temática de interés secundario,,,
+REG-231-JOME,Metropolitana de Santiago,,,,No Asistió,False,,,Segunda preferencia para participar,Temática de interés secundario,,,,,Primera preferencia para participar
+REG-232-JOME,Metropolitana de Santiago,42.0,Masculino,Academia,Asistió,False,,,,,Primera preferencia para participar,,,,
+REG-233-JOME,Metropolitana de Santiago,,Masculino,Privado,Asistió,False,,,Primera preferencia para participar,,Segunda preferencia para participar,,,,Temática de interés secundario
+REG-234-JOME,Metropolitana de Santiago,75.0,Masculino,Academia,Asistió,False,,,,Temática de interés secundario,Primera preferencia para participar,,,,Segunda preferencia para participar
+REG-235-JOME,Metropolitana de Santiago,52.0,Masculino,Sociedad civil,Asistió,False,,,Temática de interés secundario,,Segunda preferencia para participar,,,,Primera preferencia para participar
+REG-236-JUME,Metropolitana de Santiago,,,,No Asistió,False,,,,Segunda preferencia para participar,,,Primera preferencia para participar,,Temática de interés secundario
+REG-237-JUME,Metropolitana de Santiago,52.0,Masculino,Academia,Asistió,False,Primera preferencia para participar,,,Segunda preferencia para participar,,,,Temática de interés secundario,
+REG-238-JUAY,Aysén,,,,No Asistió,False,Temática de interés secundario,,,,Primera preferencia para participar,,Segunda preferencia para participar,,
+REG-239-JU,No especificada,,,,No Asistió,False,,,,,,,,,
+REG-240-JUMA,Maule,,Masculino,Academia,Asistió,False,,,Segunda preferencia para participar,Primera preferencia para participar,,,Temática de interés secundario,,
+REG-241-JUMA,Magallanes,,,,No Asistió,False,,,,,Primera preferencia para participar,Segunda preferencia para participar,,Temática de interés secundario,
+REG-242-JUVA,Valparaíso,54.0,Masculino,Academia,Asistió,False,,,,,Primera preferencia para participar,,,,
+REG-243-JUME,Metropolitana de Santiago,57.0,Masculino,Academia,Asistió,False,,,,,,,Temática de interés secundario,Segunda preferencia para participar,Primera preferencia para participar
+REG-244-JUMA,Magallanes,,Masculino,Academia,Asistió,False,,,,Temática de interés secundario,Segunda preferencia para participar,,,,Primera preferencia para participar
+REG-245-JUME,Metropolitana de Santiago,,,,No Asistió,False,,,Temática de interés secundario,Segunda preferencia para participar,Primera preferencia para participar,,,,
+REG-246-JU,No especificada,54.0,Masculino,Academia,Asistió,False,,,,,,,,,
+REG-247-JUME,Metropolitana de Santiago,40.0,Femenino,Academia,Asistió,False,,,,Temática de interés secundario,,,,,Primera preferencia para participar
+REG-248-JUME,Metropolitana de Santiago,,Femenino,Público,Asistió,False,,,,,,,,,
+REG-249-JUME,Metropolitana de Santiago,36.0,Femenino,Privado,Asistió,False,,,Temática de interés secundario,Segunda preferencia para participar,Primera preferencia para participar,,,,
+REG-250-JUME,Metropolitana de Santiago,,Masculino,Academia,Asistió,False,,,Primera preferencia para participar,Temática de interés secundario,,,,,Segunda preferencia para participar
+REG-251-KAME,Metropolitana de Santiago,53.0,Femenino,Sociedad civil,Asistió,False,,,,,,,,,
+REG-252-KAME,Metropolitana de Santiago,,,,No Asistió,False,,,,,,,,,
+REG-253-KAAN,Antofagasta,,,,No Asistió,False,,,Segunda preferencia para participar,,,Primera preferencia para participar,,Temática de interés secundario,
+REG-254-KAME,Metropolitana de Santiago,,,,No Asistió,False,,,Temática de interés secundario,Primera preferencia para participar,Segunda preferencia para participar,,,,
+REG-255-KAME,Metropolitana de Santiago,,,,No Asistió,False,,,,Temática de interés secundario,,,Primera preferencia para participar,Segunda preferencia para participar,
+REG-256-KALA,La Araucanía,,,,No Asistió,False,Segunda preferencia para participar,,,Temática de interés secundario,,,Primera preferencia para participar,,
+REG-257-KAME,Metropolitana de Santiago,,,,No Asistió,False,Primera preferencia para participar,Temática de interés secundario,,,Segunda preferencia para participar,,,,
+REG-258-LAME,Metropolitana de Santiago,40.0,Femenino,Academia,Asistió,False,,,,Temática de interés secundario,Segunda preferencia para participar,Primera preferencia para participar,,,
+REG-259-LAME,Metropolitana de Santiago,32.0,Femenino,Academia,Asistió,False,,,,Temática de interés secundario,Primera preferencia para participar,,,,Segunda preferencia para participar
+REG-260-LAME,Metropolitana de Santiago,44.0,Femenino,Academia,Asistió,False,,,Temática de interés secundario,Segunda preferencia para participar,,Primera preferencia para participar,,,
+REG-261-LEME,Metropolitana de Santiago,28.0,Femenino,Academia,Asistió,False,Temática de interés secundario,,Primera preferencia para participar,Segunda preferencia para participar,,,,,
+REG-262-LEME,Metropolitana de Santiago,,,,No Asistió,False,,,Segunda preferencia para participar,Temática de interés secundario,,,Primera preferencia para participar,,
+REG-263-LEMA,Maule,35.0,Masculino,Academia,Asistió,False,Primera preferencia para participar,Segunda preferencia para participar,,,,,,,Temática de interés secundario
+REG-264-LEME,Metropolitana de Santiago,,,,No Asistió,False,,,Primera preferencia para participar,,,,,Temática de interés secundario,
+REG-265-LEME,Metropolitana de Santiago,54.0,Femenino,Público,Asistió,False,,,,,,Segunda preferencia para participar,Temática de interés secundario,,Primera preferencia para participar
+REG-266-LIME,Metropolitana de Santiago,,Femenino,Sociedad civil,Asistió,False,Segunda preferencia para participar,,,,Temática de interés secundario,,,Primera preferencia para participar,
+REG-267-LIME,Metropolitana de Santiago,,,,No Asistió,False,,,Primera preferencia para participar,,Segunda preferencia para participar,,,,Temática de interés secundario
+REG-268-LOBI,Biobío,,Masculino,Academia,Asistió,True,,Primera preferencia para participar,Temática de interés secundario,,Segunda preferencia para participar,,,,
+REG-269-LOME,Metropolitana de Santiago,,Femenino,Academia,Asistió,False,,,,,Primera preferencia para participar,,,,
+REG-270-LUME,Metropolitana de Santiago,,,,No Asistió,False,,,Primera preferencia para participar,,,,,Temática de interés secundario,Segunda preferencia para participar
+REG-271-LUME,Metropolitana de Santiago,,,,No Asistió,False,,Temática de interés secundario,,,,Primera preferencia para participar,,Segunda preferencia para participar,
+REG-272-MAME,Metropolitana de Santiago,41.0,Femenino,Público,Asistió,False,,,Temática de interés secundario,Segunda preferencia para participar,Primera preferencia para participar,,,,
+REG-273-MABI,Biobío,53.0,Femenino,Academia,Asistió,False,,,Primera preferencia para participar,Temática de interés secundario,Segunda preferencia para participar,,,,
+REG-274-MAME,Metropolitana de Santiago,37.0,Femenino,Academia,Asistió,False,Primera preferencia para participar,,,,,,Temática de interés secundario,Segunda preferencia para participar,
+REG-275-MAME,Metropolitana de Santiago,32.0,Femenino,Público,Asistió,False,Primera preferencia para participar,,,,,Segunda preferencia para participar,,,Temática de interés secundario
+REG-276-MAME,Metropolitana de Santiago,,,,No Asistió,False,,,,,,,,,Primera preferencia para participar
+REG-277-MAME,Metropolitana de Santiago,56.0,Masculino,Academia,Asistió,False,Primera preferencia para participar,,Segunda preferencia para participar,Temática de interés secundario,,,,,
+REG-278-MAME,Metropolitana de Santiago,43.0,Masculino,Academia,Asistió,False,,,Temática de interés secundario,Primera preferencia para participar,Segunda preferencia para participar,,,,
+REG-279-MALO,Los Lagos,,,,No Asistió,False,Primera preferencia para participar,,,,Segunda preferencia para participar,,,Temática de interés secundario,
+REG-280-MAME,Metropolitana de Santiago,,Femenino,Academia,Asistió,False,,,,,,,,,Primera preferencia para participar
+REG-281-MAME,Metropolitana de Santiago,55.0,Femenino,Público,Asistió,False,,,,Primera preferencia para participar,,Temática de interés secundario,,,Segunda preferencia para participar
+REG-282-MAME,Metropolitana de Santiago,,,,No Asistió,False,,,,,Temática de interés secundario,Segunda preferencia para participar,Primera preferencia para participar,,
+REG-283-MACO,Coquimbo,41.0,Masculino,Academia,Asistió,False,,,,,Segunda preferencia para participar,,,Primera preferencia para participar,Temática de interés secundario
+REG-284-MAME,Metropolitana de Santiago,,,,No Asistió,False,Primera preferencia para participar,,Segunda preferencia para participar,Temática de interés secundario,,,,,
+REG-285-MAVA,Valparaíso,,Masculino,Otro,Asistió,True,,,Primera preferencia para participar,Segunda preferencia para participar,Temática de interés secundario,,,,
+REG-286-MAME,Metropolitana de Santiago,65.0,Masculino,Academia,Asistió,False,Primera preferencia para participar,,Segunda preferencia para participar,,Temática de interés secundario,,,,
+REG-287-MAME,Metropolitana de Santiago,,Masculino,Público,Asistió,True,,,,,Segunda preferencia para participar,Temática de interés secundario,Primera preferencia para participar,,
+REG-288-MABI,Biobío,64.0,Masculino,Academia,Asistió,False,,,Primera preferencia para participar,,,Segunda preferencia para participar,,,Temática de interés secundario
+REG-289-MAME,Metropolitana de Santiago,,Femenino,Privado,Asistió,False,,,,,,,,,
+REG-290-MAME,Metropolitana de Santiago,,,,No Asistió,False,,,,,Primera preferencia para participar,,,Segunda preferencia para participar,
+REG-291-MAME,Metropolitana de Santiago,,,,No Asistió,False,,,Primera preferencia para participar,,,,,Temática de interés secundario,Segunda preferencia para participar
+REG-292-MAME,Metropolitana de Santiago,49.0,Femenino,Academia,Asistió,False,,,Primera preferencia para participar,Segunda preferencia para participar,,,Temática de interés secundario,,
+REG-293-MAME,Metropolitana de Santiago,59.0,Femenino,Academia,Asistió,False,,,Segunda preferencia para participar,,,,Primera preferencia para participar,,Temática de interés secundario
+REG-294-MA,No especificada,,,,No Asistió,False,,,,,,,,,
+REG-295-MAME,Metropolitana de Santiago,47.0,Femenino,Público,Asistió,False,,,Segunda preferencia para participar,Primera preferencia para participar,Temática de interés secundario,,,,
+REG-296-MAME,Metropolitana de Santiago,,,,No Asistió,False,,,Segunda preferencia para participar,Primera preferencia para participar,Temática de interés secundario,,,,
+REG-297-MAME,Metropolitana de Santiago,,,,No Asistió,False,,,,Primera preferencia para participar,Segunda preferencia para participar,,Temática de interés secundario,,
+REG-298-MAME,Metropolitana de Santiago,,,,No Asistió,False,,,Primera preferencia para participar,,,Segunda preferencia para participar,,,Temática de interés secundario
+REG-299-MAVA,Valparaíso,40.0,Femenino,Academia,Asistió,False,,,Primera preferencia para participar,,,Segunda preferencia para participar,,,Temática de interés secundario
+REG-300-MAME,Metropolitana de Santiago,64.0,Femenino,Academia,Asistió,False,Primera preferencia para participar,,,,,,,,Segunda preferencia para participar
+REG-301-MAME,Metropolitana de Santiago,,,,No Asistió,False,,,Primera preferencia para participar,Segunda preferencia para participar,,,,Temática de interés secundario,
+REG-302-MAME,Metropolitana de Santiago,36.0,Femenino,Público,Asistió,True,,,,,Primera preferencia para participar,,,Temática de interés secundario,Segunda preferencia para participar
+REG-303-MABI,Biobío,43.0,Femenino,Academia,Asistió,False,Segunda preferencia para participar,Primera preferencia para participar,,,,,Temática de interés secundario,,
+REG-304-MAME,Metropolitana de Santiago,40.0,Femenino,Sociedad civil,Asistió,False,,,Segunda preferencia para participar,Temática de interés secundario,,,,,
+REG-305-MAME,Metropolitana de Santiago,46.0,Femenino,Academia,Asistió,False,Segunda preferencia para participar,,Temática de interés secundario,,Primera preferencia para participar,,,,
+REG-306-MAME,Metropolitana de Santiago,,,,No Asistió,False,,,Primera preferencia para participar,Segunda preferencia para participar,,Temática de interés secundario,,,
+REG-307-MAME,Metropolitana de Santiago,,,,No Asistió,False,Primera preferencia para participar,Segunda preferencia para participar,Temática de interés secundario,,,,,,
+REG-308-MAME,Metropolitana de Santiago,48.0,Femenino,Sociedad civil,Asistió,False,,,,Segunda preferencia para participar,Primera preferencia para participar,,,,Temática de interés secundario
+REG-309-MABI,Biobío,35.0,Femenino,Academia,Asistió,False,,Temática de interés secundario,,,Primera preferencia para participar,,,Segunda preferencia para participar,
+REG-310-MAVA,Valparaíso,,,,No Asistió,False,,,Primera preferencia para participar,,Segunda preferencia para participar,,,,
+REG-311-MAVA,Valparaíso,,,,No Asistió,False,,,,,,,,,
+REG-312-MAME,Metropolitana de Santiago,32.0,Masculino,Privado,Asistió,False,,,,Segunda preferencia para participar,,,Primera preferencia para participar,,
+REG-313-MAME,Metropolitana de Santiago,29.0,Masculino,Academia,Asistió,False,,,Primera preferencia para participar,,Segunda preferencia para participar,,,,Temática de interés secundario
+REG-314-MAO',O'Higgins,51.0,Masculino,Academia,Asistió,False,,Primera preferencia para participar,Temática de interés secundario,Segunda preferencia para participar,,,,,
+REG-315-MAME,Metropolitana de Santiago,,,,No Asistió,False,,,,,,Segunda preferencia para participar,Primera preferencia para participar,Temática de interés secundario,
+REG-316-MAME,Metropolitana de Santiago,35.0,Masculino,Público,Asistió,False,Primera preferencia para participar,,Temática de interés secundario,,,,Segunda preferencia para participar,,
+REG-317-MAME,Metropolitana de Santiago,44.0,Femenino,Otro,Asistió,False,,,Segunda preferencia para participar,Primera preferencia para participar,,,,,
+REG-318-MEME,Metropolitana de Santiago,,Femenino,Público,Asistió,True,,,,,,,,,
+REG-319-MIME,Metropolitana de Santiago,,,,No Asistió,False,,,,,,Primera preferencia para participar,Segunda preferencia para participar,,Temática de interés secundario
+REG-320-MIVA,Valparaíso,62.0,Masculino,Academia,Asistió,False,,,,Primera preferencia para participar,Segunda preferencia para participar,,,,
+REG-321-MIME,Metropolitana de Santiago,,,,No Asistió,False,,,Temática de interés secundario,Segunda preferencia para participar,,,,,Primera preferencia para participar
+REG-322-MOME,Metropolitana de Santiago,47.0,Femenino,Público,Asistió,False,,,,Primera preferencia para participar,,Segunda preferencia para participar,,,Temática de interés secundario
+REG-323-MOBI,Biobío,,Femenino,Academia,Asistió,False,,Primera preferencia para participar,Temática de interés secundario,,,Segunda preferencia para participar,,,
+REG-324-MOME,Metropolitana de Santiago,,,,No Asistió,False,,,Segunda preferencia para participar,Primera preferencia para participar,,,Temática de interés secundario,,
+REG-325-MUME,Metropolitana de Santiago,41.0,Femenino,Público,Asistió,False,,,Segunda preferencia para participar,Primera preferencia para participar,,Temática de interés secundario,,,
+REG-326-NAME,Metropolitana de Santiago,,,,No Asistió,False,,,,Primera preferencia para participar,,,,,Segunda preferencia para participar
+REG-327-NAME,Metropolitana de Santiago,50.0,Femenino,Academia,Asistió,False,,,Primera preferencia para participar,Segunda preferencia para participar,,,,,Temática de interés secundario
+REG-328-NIME,Metropolitana de Santiago,40.0,Masculino,Academia,Asistió,False,Primera preferencia para participar,,Segunda preferencia para participar,Temática de interés secundario,,,,,
+REG-329-NIBI,Biobío,,,,No Asistió,False,,,Segunda preferencia para participar,,,,,,
+REG-330-NOME,Metropolitana de Santiago,,,,No Asistió,False,Temática de interés secundario,,,Segunda preferencia para participar,,Primera preferencia para participar,,,
+REG-331-NOME,Metropolitana de Santiago,43.0,Femenino,Público,Asistió,False,,,Primera preferencia para participar,Segunda preferencia para participar,,,,,
+REG-332-OCME,Metropolitana de Santiago,,,,No Asistió,False,,,Segunda preferencia para participar,Temática de interés secundario,,,Primera preferencia para participar,,
+REG-333-OLME,Metropolitana de Santiago,,,,No Asistió,False,,,,,Primera preferencia para participar,,Segunda preferencia para participar,,
+REG-334-OL,No especificada,,,,No Asistió,False,,,,,,,,,
+REG-335-OSVA,Valparaíso,,Masculino,Sociedad civil,Asistió,False,,,,,,,,,
+REG-336-OSME,Metropolitana de Santiago,47.0,Masculino,Público,Asistió,False,,,,,,,,,
+REG-337-OSME,Metropolitana de Santiago,,,,No Asistió,False,,,Temática de interés secundario,,Segunda preferencia para participar,,,,Primera preferencia para participar
+REG-338-PAME,Metropolitana de Santiago,40.0,Masculino,Privado,Asistió,False,,,Temática de interés secundario,,Segunda preferencia para participar,,,,Primera preferencia para participar
+REG-339-PA,No especificada,39.0,Masculino,Academia,Asistió,False,,,,,,,,,
+REG-340-PAME,Metropolitana de Santiago,,,,No Asistió,False,,,Segunda preferencia para participar,,Primera preferencia para participar,,,,
+REG-341-PAME,Metropolitana de Santiago,,,,No Asistió,False,,,,,,,Segunda preferencia para participar,Temática de interés secundario,Primera preferencia para participar
+REG-342-PABI,Biobío,,,,No Asistió,False,Segunda preferencia para participar,Primera preferencia para participar,,Temática de interés secundario,,,,,
+REG-343-PABI,Biobío,49.0,Femenino,Academia,Asistió,False,,,Primera preferencia para participar,Temática de interés secundario,,,Segunda preferencia para participar,,
+REG-344-PAME,Metropolitana de Santiago,,,,No Asistió,False,,,Temática de interés secundario,Primera preferencia para participar,,,,Segunda preferencia para participar,
+REG-345-PAME,Metropolitana de Santiago,44.0,Femenino,Academia,Asistió,False,,,Primera preferencia para participar,,,Segunda preferencia para participar,Temática de interés secundario,,
+REG-346-PAME,Metropolitana de Santiago,,Femenino,Otro,Asistió,True,,,,,,,Segunda preferencia para participar,,Primera preferencia para participar
+REG-347-PAME,Metropolitana de Santiago,,Femenino,Público,Asistió,False,,,Segunda preferencia para participar,Primera preferencia para participar,,,,,
+REG-348-PAME,Metropolitana de Santiago,42.0,Femenino,Sociedad civil,Asistió,False,,,Primera preferencia para participar,Segunda preferencia para participar,Temática de interés secundario,,,,
+REG-349-PAME,Metropolitana de Santiago,,Femenino,Privado,Asistió,False,,,,,,,,,
+REG-350-PAME,Metropolitana de Santiago,51.0,Femenino,Academia,Asistió,False,,,Temática de interés secundario,Segunda preferencia para participar,Primera preferencia para participar,,,,
+REG-351-PABI,Biobío,,,,No Asistió,False,,,Primera preferencia para participar,Segunda preferencia para participar,,,,,Temática de interés secundario
+REG-352-PAME,Metropolitana de Santiago,66.0,Femenino,Academia,Asistió,False,,,,Primera preferencia para participar,Segunda preferencia para participar,,,,Temática de interés secundario
+REG-353-PAME,Metropolitana de Santiago,,Femenino,Sociedad civil,Asistió,False,,,,,,,,,
+REG-354-PAME,Metropolitana de Santiago,,,,No Asistió,False,,,Segunda preferencia para participar,Primera preferencia para participar,Temática de interés secundario,,,,
+REG-355-PAME,Metropolitana de Santiago,33.0,Masculino,Público,Asistió,False,,,Primera preferencia para participar,Segunda preferencia para participar,Temática de interés secundario,,,,
+REG-356-PA,No especificada,42.0,Masculino,Academia,Asistió,False,,,,,,,,,
+REG-357-PAME,Metropolitana de Santiago,46.0,Femenino,Academia,Asistió,False,Segunda preferencia para participar,,,Primera preferencia para participar,,,,,Temática de interés secundario
+REG-358-PAME,Metropolitana de Santiago,28.0,Femenino,Academia,Asistió,False,Segunda preferencia para participar,,,,Temática de interés secundario,,,,Primera preferencia para participar
+REG-359-PAME,Metropolitana de Santiago,48.0,Femenino,Público,Asistió,False,,,,,Segunda preferencia para participar,,Primera preferencia para participar,,Temática de interés secundario
+REG-360-PAME,Metropolitana de Santiago,,,,No Asistió,False,,,Primera preferencia para participar,,,,Temática de interés secundario,,Segunda preferencia para participar
+REG-361-PABI,Biobío,,,,No Asistió,False,,,Temática de interés secundario,Segunda preferencia para participar,Primera preferencia para participar,,,,
+REG-362-PAME,Metropolitana de Santiago,28.0,Femenino,Privado,Asistió,False,,,,,,,,,
+REG-363-PAME,Metropolitana de Santiago,28.0,Masculino,Academia,Asistió,False,,,Primera preferencia para participar,Segunda preferencia para participar,,,,,Temática de interés secundario
+REG-364-PEMA,Magallanes,,,,No Asistió,False,,,Temática de interés secundario,,,Primera preferencia para participar,Segunda preferencia para participar,,
+REG-365-PEME,Metropolitana de Santiago,,,,No Asistió,False,,,Primera preferencia para participar,Segunda preferencia para participar,,,,,
+REG-366-PEME,Metropolitana de Santiago,63.0,Masculino,Público,Asistió,False,,,Temática de interés secundario,Segunda preferencia para participar,Primera preferencia para participar,,,,
+REG-367-PÍME,Metropolitana de Santiago,43.0,Femenino,Privado,Asistió,False,Temática de interés secundario,Primera preferencia para participar,,,,,,Segunda preferencia para participar,
+REG-368-PIME,Metropolitana de Santiago,,Femenino,Privado,Asistió,False,,,,Temática de interés secundario,,,Primera preferencia para participar,,Segunda preferencia para participar
+REG-369-PIME,Metropolitana de Santiago,,Femenino,Academia,Asistió,False,,,Segunda preferencia para participar,Primera preferencia para participar,Temática de interés secundario,,,,
+REG-370-PRME,Metropolitana de Santiago,,,,No Asistió,False,,,Primera preferencia para participar,Temática de interés secundario,Segunda preferencia para participar,,,,
+REG-371-PRME,Metropolitana de Santiago,,Femenino,Público,Asistió,False,,,Segunda preferencia para participar,Primera preferencia para participar,Temática de interés secundario,,,,
+REG-372-RAME,Metropolitana de Santiago,,,,No Asistió,False,,,Segunda preferencia para participar,Primera preferencia para participar,,Temática de interés secundario,,,
+REG-373-RA,No especificada,30.0,Femenino,Público,Asistió,False,,,,,,,,,
+REG-374-RAME,Metropolitana de Santiago,39.0,Masculino,Privado,Asistió,False,Primera preferencia para participar,,Segunda preferencia para participar,,,,Temática de interés secundario,,
+REG-375-RAVA,Valparaíso,28.0,Masculino,Academia,Asistió,False,,,,,Primera preferencia para participar,Segunda preferencia para participar,,,
+REG-376-RAME,Metropolitana de Santiago,38.0,Femenino,Academia,Asistió,False,,,Primera preferencia para participar,,,Segunda preferencia para participar,Temática de interés secundario,,
+REG-377-RIME,Metropolitana de Santiago,,,,No Asistió,False,Segunda preferencia para participar,,,Primera preferencia para participar,,,,,Temática de interés secundario
+REG-378-RIMA,Magallanes,64.0,Masculino,Academia,Asistió,False,,,Primera preferencia para participar,Temática de interés secundario,,,Segunda preferencia para participar,,
+REG-379-RIME,Metropolitana de Santiago,68.0,Masculino,Academia,Asistió,False,,,,Segunda preferencia para participar,,,Primera preferencia para participar,Temática de interés secundario,
+REG-380-RIME,Metropolitana de Santiago,35.0,Masculino,Privado,Asistió,False,,,Primera preferencia para participar,Segunda preferencia para participar,Temática de interés secundario,,,,
+REG-381-RIMA,Maule,35.0,Masculino,Academia,Asistió,False,Primera preferencia para participar,,,,Temática de interés secundario,,Segunda preferencia para participar,,
+REG-382-ROME,Metropolitana de Santiago,50.0,Masculino,Academia,Asistió,False,,,,,,,,,
+REG-383-ROME,Metropolitana de Santiago,,Masculino,Academia,Asistió,True,,,,,,,,,
+REG-384-ROBI,Biobío,59.0,Masculino,Academia,Asistió,False,,,Primera preferencia para participar,,Temática de interés secundario,Segunda preferencia para participar,,,
+REG-385-ROME,Metropolitana de Santiago,,,,No Asistió,False,,,,Segunda preferencia para participar,,,Primera preferencia para participar,,Temática de interés secundario
+REG-386-ROME,Metropolitana de Santiago,,,,No Asistió,False,Segunda preferencia para participar,,,Primera preferencia para participar,,,,Temática de interés secundario,
+REG-387-ROME,Metropolitana de Santiago,65.0,Masculino,Academia,Asistió,False,,,Primera preferencia para participar,Segunda preferencia para participar,,,,,Temática de interés secundario
+REG-388-ROMA,Maule,,,,No Asistió,False,Segunda preferencia para participar,,,,Temática de interés secundario,,Primera preferencia para participar,,
+REG-389-ROME,Metropolitana de Santiago,42.0,Masculino,Público,Asistió,False,,,Segunda preferencia para participar,,,,,,Temática de interés secundario
+REG-390-ROME,Metropolitana de Santiago,,,,No Asistió,False,,,,,,,,Primera preferencia para participar,
+REG-391-ROME,Metropolitana de Santiago,,,,No Asistió,False,,,,,,Segunda preferencia para participar,,,Primera preferencia para participar
+REG-392-ROME,Metropolitana de Santiago,,,,No Asistió,False,,,,,Segunda preferencia para participar,,,,
+REG-393-ROME,Metropolitana de Santiago,45.0,Femenino,Privado,Asistió,False,,,,Segunda preferencia para participar,Primera preferencia para participar,,,,Temática de interés secundario
+REG-394-ROVA,Valparaíso,,Femenino,Academia,Asistió,False,Segunda preferencia para participar,,,,,,Primera preferencia para participar,Temática de interés secundario,
+REG-395-RUME,Metropolitana de Santiago,,Masculino,Academia,Asistió,False,,,Primera preferencia para participar,Segunda preferencia para participar,,,,,Temática de interés secundario
+REG-396-RUVA,Valparaíso,,,,No Asistió,False,,,Segunda preferencia para participar,,,Primera preferencia para participar,,,
+REG-397-SAMA,Maule,,,,No Asistió,False,,Segunda preferencia para participar,,,,Temática de interés secundario,Primera preferencia para participar,,
+REG-398-SAME,Metropolitana de Santiago,,Femenino,Academia,Asistió,True,,,Primera preferencia para participar,Segunda preferencia para participar,,,Temática de interés secundario,,
+REG-399-SAME,Metropolitana de Santiago,47.0,Femenino,Sociedad civil,Asistió,False,,,,Segunda preferencia para participar,Temática de interés secundario,,,,Primera preferencia para participar
+REG-400-SAME,Metropolitana de Santiago,,,,No Asistió,False,,,,Primera preferencia para participar,,,Segunda preferencia para participar,Temática de interés secundario,
+REG-401-SEME,Metropolitana de Santiago,51.0,Masculino,Público,Asistió,False,,Temática de interés secundario,,Segunda preferencia para participar,,Primera preferencia para participar,,,
+REG-402-SEME,Metropolitana de Santiago,,,,No Asistió,False,,,Primera preferencia para participar,,Temática de interés secundario,,,,Segunda preferencia para participar
+REG-403-SEBI,Biobío,28.0,Masculino,Academia,Asistió,False,,,,,,,Segunda preferencia para participar,Primera preferencia para participar,Temática de interés secundario
+REG-404-SEME,Metropolitana de Santiago,51.0,Masculino,Academia,Asistió,False,,,Segunda preferencia para participar,Primera preferencia para participar,Temática de interés secundario,,,,
+REG-405-SEME,Metropolitana de Santiago,33.0,Masculino,Privado,Asistió,False,Primera preferencia para participar,,,,Segunda preferencia para participar,Temática de interés secundario,,,
+REG-406-SEBI,Biobío,52.0,Masculino,Academia,Asistió,False,,,Primera preferencia para participar,Segunda preferencia para participar,Temática de interés secundario,,,,
+REG-407-SEME,Metropolitana de Santiago,42.0,Masculino,Otro,Asistió,False,,,,,,,,,
+REG-408-SOME,Metropolitana de Santiago,44.0,Femenino,Otro,Asistió,False,Temática de interés secundario,,,Segunda preferencia para participar,Primera preferencia para participar,,,,
+REG-409-SOME,Metropolitana de Santiago,,Femenino,Sociedad civil,Asistió,False,,,,Segunda preferencia para participar,,,,,Primera preferencia para participar
+REG-410-SOME,Metropolitana de Santiago,37.0,Femenino,Público,Asistió,True,,,,,,Segunda preferencia para participar,Temática de interés secundario,,Primera preferencia para participar
+REG-411-SOME,Metropolitana de Santiago,,,,No Asistió,False,Primera preferencia para participar,Temática de interés secundario,Segunda preferencia para participar,,,,,,
+REG-412-SOME,Metropolitana de Santiago,,Femenino,Sociedad civil,Asistió,False,,,,,Temática de interés secundario,,Primera preferencia para participar,,Segunda preferencia para participar
+REG-413-SOLO,Los Ríos,,,,No Asistió,False,,,,Segunda preferencia para participar,Primera preferencia para participar,,,,
+REG-414-STME,Metropolitana de Santiago,,,,No Asistió,False,,,Primera preferencia para participar,,Temática de interés secundario,,,,Segunda preferencia para participar
+REG-415-STME,Metropolitana de Santiago,,Masculino,Academia,Asistió,True,,,,,,,,,
+REG-416-SYME,Metropolitana de Santiago,,Masculino,Academia,Asistió,False,,Temática de interés secundario,Segunda preferencia para participar,,Primera preferencia para participar,,,,
+REG-417-TAME,Metropolitana de Santiago,,,,No Asistió,False,,,,Temática de interés secundario,Segunda preferencia para participar,,,,Primera preferencia para participar
+REG-418-TAME,Metropolitana de Santiago,30.0,Femenino,Academia,Asistió,False,,,Primera preferencia para participar,Segunda preferencia para participar,,,,,Temática de interés secundario
+REG-419-TABI,Biobío,,,,No Asistió,False,,,Primera preferencia para participar,Temática de interés secundario,,,,,Segunda preferencia para participar
+REG-420-TOME,Metropolitana de Santiago,38.0,Masculino,Academia,Asistió,False,Primera preferencia para participar,,Temática de interés secundario,,Segunda preferencia para participar,,,,
+REG-421-VAME,Metropolitana de Santiago,,,,No Asistió,False,Temática de interés secundario,,Segunda preferencia para participar,,Primera preferencia para participar,,,,
+REG-422-VAME,Metropolitana de Santiago,39.0,Femenino,Público,Asistió,False,,,Segunda preferencia para participar,Temática de interés secundario,,,,,Primera preferencia para participar
+REG-423-VAME,Metropolitana de Santiago,44.0,Femenino,Público,Asistió,False,,,Temática de interés secundario,Primera preferencia para participar,Segunda preferencia para participar,,,,
+REG-424-VAAT,Atacama,43.0,Femenino,Academia,Asistió,False,,,Primera preferencia para participar,,,Segunda preferencia para participar,Temática de interés secundario,,
+REG-425-VEME,Metropolitana de Santiago,36.0,Femenino,Sociedad civil,Asistió,False,,,,,,,Temática de interés secundario,,
+REG-426-VEVA,Valparaíso,,Femenino,Academia,Asistió,False,,,Temática de interés secundario,Primera preferencia para participar,Segunda preferencia para participar,,,,
+REG-427-VEME,Metropolitana de Santiago,,,,No Asistió,False,,,,,,,,,Primera preferencia para participar
+REG-428-VIME,Metropolitana de Santiago,,,,No Asistió,False,,,,Segunda preferencia para participar,Primera preferencia para participar,,,,
+REG-429-VIME,Metropolitana de Santiago,,Femenino,Academia,Asistió,False,,,,Primera preferencia para participar,,,,,Segunda preferencia para participar
+REG-430-VILA,La Araucanía,47.0,Femenino,Academia,Asistió,False,,Primera preferencia para participar,,Temática de interés secundario,,,Segunda preferencia para participar,,
+REG-431-YAVA,Valparaíso,39.0,Femenino,Academia,Asistió,False,,,Primera preferencia para participar,Segunda preferencia para participar,,,,,
+REG-432-YAMA,Magallanes,,,,No Asistió,False,,,,Temática de interés secundario,Segunda preferencia para participar,,Primera preferencia para participar,,
+REG-433-YEME,Metropolitana de Santiago,46.0,Femenino,Privado,Asistió,False,,,Segunda preferencia para participar,Temática de interés secundario,Primera preferencia para participar,,,,
+REG-434-YUME,Metropolitana de Santiago,42.0,Masculino,Academia,Asistió,False,,,Primera preferencia para participar,Temática de interés secundario,,Segunda preferencia para participar,,,
