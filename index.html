@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Métricas - Lanzamiento informes temáticos</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <!-- FontAwesome for Premium Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Chart.js for standard charts -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- Highcharts for Treemap -->
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/modules/treemap.js"></script>
+    <!-- CSS Estilos -->
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div class="light-bg-glow"></div>
+    <div class="light-bg-glow secondary"></div>
+
+    <div class="app-container">
+        <!-- Header -->
+        <header class="main-header">
+            <div class="header-logo">
+                <i class="fa-solid fa-chart-pie logo-icon"></i>
+                <div class="logo-text">
+                    <h1>Métricas - Lanzamiento informes temáticos</h1>
+                    <span>Visualización de Asistencia e Intereses</span>
+                </div>
+            </div>
+            <div class="header-actions">
+                <a href="data_raw.csv" download="datos_originales_evento.csv" class="download-btn">
+                    <i class="fa-solid fa-download"></i> Descargar Datos (CSV)
+                </a>
+                <div class="header-status">
+                    <span class="status-indicator online"></span>
+                    <span id="data-status-text">Datos actualizados</span>
+                </div>
+            </div>
+        </header>
+
+        <!-- Filtros e Interactividad -->
+        <section class="filters-panel">
+            <div class="filters-header">
+                <i class="fa-solid fa-sliders"></i>
+                <h2>Filtros e Interactividad</h2>
+            </div>
+            <div class="filters-grid">
+                <!-- Toggle Organizador -->
+                <div class="filter-item toggle-container">
+                    <label class="filter-label">Equipo Organizador</label>
+                    <div class="toggle-switch-wrapper">
+                        <span class="toggle-label-text">Excluir</span>
+                        <label class="switch">
+                            <input type="checkbox" id="toggle-organizer">
+                            <span class="slider round"></span>
+                        </label>
+                        <span class="toggle-label-text">Incluir</span>
+                    </div>
+                </div>
+
+                <!-- Multi-select Sector -->
+                <div class="filter-item dropdown-container">
+                    <label class="filter-label" for="select-sector">Filtrar por Sector</label>
+                    <div class="custom-select" id="sector-select-wrapper">
+                        <div class="select-trigger" id="sector-trigger">
+                            <span class="trigger-text">Todos los Sectores</span>
+                            <i class="fa-solid fa-chevron-down"></i>
+                        </div>
+                        <div class="select-options" id="sector-options">
+                            <!-- JS populated -->
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Multi-select Temáticas -->
+                <div class="filter-item dropdown-container wide-filter">
+                    <label class="filter-label" for="select-tematicas">Temáticas de Interés</label>
+                    <div class="custom-select" id="tematicas-select-wrapper">
+                        <div class="select-trigger" id="tematicas-trigger">
+                            <span class="trigger-text">Todas las Temáticas</span>
+                            <i class="fa-solid fa-chevron-down"></i>
+                        </div>
+                        <div class="select-options" id="tematicas-options">
+                            <!-- JS populated -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- active filters tags -->
+            <div class="active-filters-bar" id="active-filters-bar">
+                <!-- tags here -->
+            </div>
+        </section>
+
+        <!-- SECCIÓN A: KPIs -->
+        <section class="kpi-section">
+            <div class="kpi-card" id="kpi-total-inscritos">
+                <div class="kpi-icon-wrapper">
+                    <i class="fa-solid fa-users"></i>
+                </div>
+                <div class="kpi-data">
+                    <h3 id="kpi-total-val">-</h3>
+                    <p>Total Inscritos</p>
+                    <span class="kpi-info-text">Convocatoria general</span>
+                </div>
+                <div class="kpi-glow"></div>
+            </div>
+            
+            <div class="kpi-card highlight" id="kpi-asistentes-confirmados">
+                <div class="kpi-icon-wrapper">
+                    <i class="fa-solid fa-circle-check"></i>
+                </div>
+                <div class="kpi-data">
+                    <h3 id="kpi-asistentes-val">-</h3>
+                    <p>Asistentes Efectivos</p>
+                    <span class="kpi-info-text" id="kpi-asistentes-min-text">Al menos - asistentes (mínimo oficial)</span>
+                </div>
+                <div class="kpi-glow"></div>
+            </div>
+
+            <div class="kpi-card" id="kpi-tasa-asistencia">
+                <div class="kpi-icon-wrapper">
+                    <i class="fa-solid fa-percent"></i>
+                </div>
+                <div class="kpi-data">
+                    <h3 id="kpi-tasa-val">-</h3>
+                    <p>Tasa de Asistencia</p>
+                    <span class="kpi-info-text">Relación asistencia/inscripción</span>
+                </div>
+                <div class="kpi-glow"></div>
+            </div>
+        </section>
+
+        <!-- Grid de Visualizaciones -->
+        <div class="charts-grid">
+            <!-- SECCIÓN B: Geografía y Descentralización -->
+            <div class="chart-card span-2">
+                <div class="card-header">
+                    <div class="header-left">
+                        <i class="fa-solid fa-map-location-dot"></i>
+                        <h3>Distribución de Asistencia Regional</h3>
+                        <span class="card-subtitle">Asistentes efectivos por región (Treemap interactivo)</span>
+                    </div>
+                </div>
+                <div class="chart-container" id="treemap-regions-container">
+                    <!-- Highcharts Treemap container -->
+                </div>
+            </div>
+
+            <!-- Indicador de Descentralización -->
+            <div class="chart-card">
+                <div class="card-header">
+                    <div class="header-left">
+                        <i class="fa-solid fa-compass"></i>
+                        <h3>Descentralización</h3>
+                        <span class="card-subtitle">Porcentaje de asistentes fuera de la RM</span>
+                    </div>
+                    <div class="kpi-mini-badge">
+                        <span class="badge-label">Total Regiones</span>
+                        <span class="badge-value" id="kpi-regiones-count">-</span>
+                    </div>
+                </div>
+                <div class="chart-container gauge-wrapper">
+                    <canvas id="chart-descentralizacion"></canvas>
+                    <div class="gauge-value-display">
+                        <span id="gauge-pct-val">-</span>
+                        <span class="gauge-label-text">de regiones</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- SECCIÓN C: Equidad de Género -->
+            <div class="chart-card">
+                <div class="card-header">
+                    <div class="header-left">
+                        <i class="fa-solid fa-venus-mars"></i>
+                        <h3>Paridad de Género en Asistentes Externos</h3>
+                        <span class="card-subtitle">Asistentes efectivos con género declarado</span>
+                    </div>
+                </div>
+                <div class="chart-container donut-wrapper">
+                    <canvas id="chart-gender"></canvas>
+                </div>
+            </div>
+
+            <!-- SECCIÓN D1: Ecosistema -->
+            <div class="chart-card">
+                <div class="card-header">
+                    <div class="header-left">
+                        <i class="fa-solid fa-network-wired"></i>
+                        <h3>Representatividad del Ecosistema</h3>
+                        <span class="card-subtitle">Asistentes efectivos según sector de procedencia</span>
+                    </div>
+                </div>
+                <div class="chart-container">
+                    <canvas id="chart-sector"></canvas>
+                </div>
+            </div>
+
+            <!-- SECCIÓN D2: Edad -->
+            <div class="chart-card">
+                <div class="card-header">
+                    <div class="header-left">
+                        <i class="fa-solid fa-cake-candles"></i>
+                        <h3>Distribución de Edad</h3>
+                        <span class="card-subtitle">Asistentes efectivos con indicador de media (~44 años)</span>
+                    </div>
+                </div>
+                <div class="chart-container">
+                    <canvas id="chart-age"></canvas>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- JS Aplicación -->
+    <script src="app.js"></script>
+</body>
+</html>
